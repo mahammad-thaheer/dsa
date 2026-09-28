@@ -27,7 +27,7 @@ class Solution {
             carry = sum/10;//quotient
             ListNode node = new ListNode(sum%10);
             curr.next = node;
-            curr = curr.next;
+            curr = curr.next;// IT IS FOR NORMAL TRAVERSING 
         }
         return dummy.next;
         
