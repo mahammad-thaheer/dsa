@@ -23,7 +23,7 @@ class Solution {
            
             even=even.next;
         }
-        odd.next = evenHead;
+        odd.next = evenHead;// for linking the odd and even 
         return head;
         
     }
