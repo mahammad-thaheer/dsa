@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mahammad-thaheer/dsa/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/mahammad-thaheer/dsa/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/mahammad-thaheer/dsa/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/mahammad-thaheer/dsa/tree/master/0268-missing-number) |
 ## Recursion
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mahammad-thaheer/dsa/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/mahammad-thaheer/dsa/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/mahammad-thaheer/dsa/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/mahammad-thaheer/dsa/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mahammad-thaheer/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mahammad-thaheer/dsa/tree/master/2149-rearrange-array-elements-by-sign) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/mahammad-thaheer/dsa/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
